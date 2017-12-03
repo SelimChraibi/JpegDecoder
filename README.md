@@ -14,7 +14,7 @@ See [JPEG encoding](https://en.wikipedia.org/wiki/JPEG#Encoding) to understand t
 
 ## Getting started
 
-*Note: To avoid architecture compatibility issues, the use of a linux virtual machine environment is recommanded. ([Vagrant](https://www.vagrantup.com/downloads.html))*
+*Note: To avoid architecture compatibility issues, the use of a linux virtual machine environment is recommended. ([Vagrant](https://www.vagrantup.com/downloads.html))*
 
 ### Compilation
 
