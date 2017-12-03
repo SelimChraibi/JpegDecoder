@@ -1,6 +1,6 @@
 # Jpeg Decoder
 
-*First year C project at Ensimag - Grenoble INP*
+*First year C project at Ensimag - Grenoble INP - 2017*
 
 ![Screen Shot 2017-12-03 at 12.12.23](https://i.imgur.com/08F1EoC.jpg)
 
